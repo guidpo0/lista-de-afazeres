@@ -4,7 +4,7 @@ Projeto desenvolvido durante a formação em desenvolvedor Web Full Stack pela T
 
 # Boas vindas ao repositório do projeto Lista de Tarefas!
 
-Esta aplicação permite ao usuário anotar tarefas e manipula-lás.
+Esta aplicação permite ao usuário anotar tarefas e manipulá-las.
 Lembrando que esta aplicação corresponde aos meus esforços para melhorar minhas hard skills e soft skills sinta-se à vontade para explorá-la! Feedbacks construtivos são sempre bem vindos!
 Abaixo você poderá encontrar mais informações técnicas sobre este projeto.
 
