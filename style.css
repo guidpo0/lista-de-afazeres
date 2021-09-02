@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  font-family: Indie Flower, cursive;
+  background-image: url('https://i.pinimg.com/originals/cc/78/5b/cc785bae66ae4f48d1d2c78dcdc6ec7e.png');
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.not-selected {
+  background-color: white;
+}
+
+#criar-tarefa {
+  background-color: green;
+}
+
+button {
+  font-weight: 600;
+  background-color: rgb(236 , 129 , 129);
+  border-radius: 12px;
+}
+
+#remover-selecionado {
+  background-color: red;
+}
+
+ol {
+  text-align: center;
+  padding-left: 35%;
+}
+
+li {
+  width: fit-content;
+  margin-top: 18px;
+}
